@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SreenathSreekrishna , a seventh grader who likes programming
+- 👋 Hi, I’m @SreenathSreekrishna , a eighth grader who likes programming
 - 👀 I’m interested in : python
 - 🌱 I’m currently learning : Web Programming with flask and django
 - 💞️ I’m looking to collaborate on : cool ai/ml projects
