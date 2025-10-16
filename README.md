@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @SreenathSreekrishna , a eighth grader who likes programming
-- 👀 I’m interested in : python
-- 🌱 I’m currently learning : Web Programming with flask and django
-- 💞️ I’m looking to collaborate on : cool ai/ml projects
 - 📫 How to reach me : Contact <a href="mailto:sreenathsreekrishna21@gmail.com">sreenathsreekrishna21@gmail.com</a>
